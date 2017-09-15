@@ -15,7 +15,7 @@ public class Exercicio04 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println (.1 + .2 == .3);
+        System.out.println (.1f + .2f == .3f);
     }
     
 }
